@@ -1,4 +1,7 @@
-# Product of all elements in array except i-th element
+"""
+Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
+"""
+
 def bruteforce(arr):
     l = len(arr)
     prod = []
