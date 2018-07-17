@@ -1,4 +1,6 @@
-# Find if a pair of numbers exist in a list that add upto the required sum
+"""
+Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
+"""
 
 def bruteforce(numbers, neededSum):
     l = len(numbers)
