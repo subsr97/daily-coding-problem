@@ -1,3 +1,4 @@
+# Product of all elements in array except i-th element
 def bruteforce(arr):
     l = len(arr)
     prod = []
