@@ -20,4 +20,5 @@ def checkSumPair(numbers, neededSum):
 if __name__ == "__main__":
     numbers = [int(x) for x in input().strip().split()]
     neededSum = int(input().strip())
+    print(bruteforce(numbers, neededSum))
     print(checkSumPair(numbers, neededSum))
