@@ -1,5 +1,3 @@
-# Product except i-th element
-
 def bruteforce(arr):
     l = len(arr)
     prod = []
