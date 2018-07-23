@@ -5,3 +5,4 @@
 4. [First Missing Positive](./solutions/first-missing-positive.py)
 5. [Function Implementation](./solutions/function-implementation.py)
 6. [XOR Linked List](./solutions/xor-linked-list.py)
+7. [Decode Ways](./solutions/decode-ways.py)
