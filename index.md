@@ -4,3 +4,4 @@
 3. [Serialize and Deserialize Binary Tree](./solutions/serialize-and-deserialize-binary-tree.py)
 4. [First Missing Positive](./solutions/first-missing-positive.py)
 5. [Function Implementation](./solutions/function-implementation.py)
+6. [XOR Linked List](./solutions/xor-linked-list.py)
