@@ -25,14 +25,12 @@ class Node:
         self.left = left
         self.right = right
 
-    def __str__(self):
-        return "<" + str(self.val) + ">"
-
 def isUnival(node):
-    return node.left ==None and node.right == None or node.left.val == node.right.val
+    return node.left == None and node.right == None or node.left.val == node.right.val
 
 def countUnivalSubtrees(node):
     global univalSubtreeCount
+      
     if isUnival(node):
         univalSubtreeCount += 1
     if node.right != None:
