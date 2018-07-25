@@ -1,6 +1,8 @@
 # Daily Coding Problem
-A repository of my own solutions as well as optimal solutions for [Daily Coding Problem](https://www.dailycodingproblem.com/).
+A repository of my solutions for [Daily Coding Problem](https://www.dailycodingproblem.com/).
 
-[Index](./index.md) contains the list of programs.
+[Index](./index.md) contains the list Daily Coding Problems and lessons.
 
-The programs are located in the [solutions](./solutions) folder.
+Daily Coding Problem solutions are in [challenges](./challenges).
+
+Lessons and guides by DCP are in [lessons](./lessons).
