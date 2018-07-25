@@ -32,13 +32,13 @@ def increment_depth(node_depth_tuple):
 if __name__ == "__main__":
 	tree = Node(4, Node(2, Node(1, Node(0)), Node(3)), Node(5))
 	"""
-			4
+		    4
 		   / \
 		  2   5
 		 / \  
 		1   3
-	   /
-	  0
+	       /
+	      0
 	"""
 	node_depth_tuple = deepest(tree)
 	print(node_depth_tuple[0], " of depth ", node_depth_tuple[1])
