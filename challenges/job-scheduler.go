@@ -20,9 +20,9 @@ var threadCount = 0
 func job() {
 	id := threadCount
 	fmt.Println(time.Now())
-	fmt.Println("Started ", id)
+	fmt.Println("Job instance #", id, " started.")
 	time.Sleep(time.Duration(10) * time.Second)
-	fmt.Println("Stopped", id)
+	fmt.Println("Job instance #", id, " ended.")
 }
 
 func scheduler(f fn, duration int64) {
