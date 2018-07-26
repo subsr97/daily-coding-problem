@@ -1,4 +1,5 @@
 # Daily Coding Problem
+
 A repository of my solutions for [Daily Coding Problem](https://www.dailycodingproblem.com/).
 
 [Index](./index.md) contains a list of Challenges and Lessons.
