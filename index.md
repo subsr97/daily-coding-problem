@@ -10,6 +10,8 @@
 6. [XOR Linked List](./challenges/xor-linked-list.py)
 7. [Decode Ways](./challenges/decode-ways.py)
 8. [Count Unival Subtrees](./challenges/count-unival-subtrees.py)
+9. Largest Non-adjacent Sum
+10. [Job Scheduler](./challenges/job-scheduler.go)
 
 ## Lessons
 
