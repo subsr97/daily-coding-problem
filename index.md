@@ -16,6 +16,8 @@
     * [Python](./challenges/job-scheduler.py)
 11. [Autocomplete System](./challenges/autocomplete-system.py)
 12. [Climb the Staircase](./challenges/climb-the-staircase.py)
+13. Longest Subsstring With At Most K Characters
+14. [Estimate Pi - Monte Carlo](./challenges/estimate-pi-monte-carlo.py)
 
 ## Lessons
 
