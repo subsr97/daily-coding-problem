@@ -14,7 +14,7 @@
 10. Job Scheduler
     * [Golang](./challenges/job-scheduler.go)
     * [Python](./challenges/job-scheduler.py)
-11. Autocomplete System
+11. [Autocomplete System](./challenges/autocomplete-system.py)
 12. [Climb the Staircase](./challenges/climb-the-staircase.py)
 
 ## Lessons
