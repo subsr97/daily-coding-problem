@@ -19,6 +19,7 @@
 13. Longest Subsstring With At Most K Characters
 14. [Estimate Pi - Monte Carlo](./challenges/estimate-pi-monte-carlo.py)
 15. [Reservoir Sampling](./challenges/reservoir-sampling.py)
+16. [Order Log](./challenges/order-log.py)
 
 ## Lessons
 
