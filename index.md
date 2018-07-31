@@ -18,6 +18,7 @@
 12. [Climb the Staircase](./challenges/climb-the-staircase.py)
 13. Longest Subsstring With At Most K Characters
 14. [Estimate Pi - Monte Carlo](./challenges/estimate-pi-monte-carlo.py)
+15. [Reservoir Sampling](./challenges/reservoir-sampling.py)
 
 ## Lessons
 
