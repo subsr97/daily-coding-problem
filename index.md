@@ -26,3 +26,4 @@
 1. [Merge Sort](./lessons/merge-sort.py)
 2. [Count Nodes in Binary Tree](./lessons/count-nodes-in-binary-tree.py)
 3. [Deepest Node in Binary Tree](./lessons/deepest-node-in-binary-tree.py)
+4. [N Queens Puzzle](./lessons/n-queens-puzzle.py)
