@@ -2,9 +2,9 @@
 
 ## Challenges
 
-1. [Sum Pair in Array](./challenges/sum-pair-in-array.py)
+1. [Sum Pair In Array](./challenges/sum-pair-in-array.py)
 2. [Product Array Puzzle](./challenges/product-array-puzzle.py)
-3. [Serialize and Deserialize Binary Tree](./challenges/serialize-and-deserialize-binary-tree.py)
+3. [Serialize And Deserialize Binary Tree](./challenges/serialize-and-deserialize-binary-tree.py)
 4. [First Missing Positive](./challenges/first-missing-positive.py)
 5. [Function Implementation](./challenges/function-implementation.py)
 6. [XOR Linked List](./challenges/xor-linked-list.py)
@@ -15,11 +15,15 @@
     * [Golang](./challenges/job-scheduler.go)
     * [Python](./challenges/job-scheduler.py)
 11. [Autocomplete System](./challenges/autocomplete-system.py)
-12. [Climb the Staircase](./challenges/climb-the-staircase.py)
+12. [Climb The Staircase](./challenges/climb-the-staircase.py)
 13. Longest Subsstring With At Most K Characters
 14. [Estimate Pi - Monte Carlo](./challenges/estimate-pi-monte-carlo.py)
 15. [Reservoir Sampling](./challenges/reservoir-sampling.py)
 16. [Order Log](./challenges/order-log.py)
+17. Longest Absolute Path
+18. Max In Each Subarray
+19. Paint Houses
+20. [Intersection in Linked Lists](./challenges/intersection-in-linked-lists.py)
 
 ## Lessons
 
