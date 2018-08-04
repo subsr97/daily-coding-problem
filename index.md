@@ -24,6 +24,7 @@
 18. Max In Each Subarray
 19. Paint Houses
 20. [Intersection in Linked Lists](./challenges/intersection-in-linked-lists.py)
+21. [Minimum Classrooms Required](./challenges/minimum-classrooms-required.py)
 
 ## Lessons
 
