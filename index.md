@@ -23,9 +23,10 @@
 17. Longest Absolute Path
 18. Max In Each Subarray
 19. Paint Houses
-20. [Intersection in Linked Lists](./challenges/intersection-in-linked-lists.py)
+20. [Intersection In Linked Lists](./challenges/intersection-in-linked-lists.py)
 21. [Minimum Classrooms Required](./challenges/minimum-classrooms-required.py)
 22. [Form Sentence From String](./challenges/form-sentence-from-string.py)
+23. [Shortest Path In A Maze](./challenges/shortest-path-in-a-maze.py)
 
 ## Lessons
 
