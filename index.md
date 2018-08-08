@@ -27,6 +27,7 @@
 21. [Minimum Classrooms Required](./challenges/minimum-classrooms-required.py)
 22. [Form Sentence From String](./challenges/form-sentence-from-string.py)
 23. [Shortest Path In A Maze](./challenges/shortest-path-in-a-maze.py)
+24. [Locking In Binary Tree](./challenges/locking-in-binary-tree.py)
 
 ## Lessons
 
