@@ -19,7 +19,7 @@ def checkWellFormedness(bracketString):
         if bracket in openingBrackets:
             bracketStack.append(bracket)
         else:
-            if bracketStack[-1] == matchingBracketsDict[bracket]:
+            if bracketStack and bracketStack[-1] == matchingBracketsDict[bracket]:
                 bracketStack.pop()
             else:
                 return False
