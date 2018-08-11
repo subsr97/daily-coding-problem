@@ -29,7 +29,7 @@
 23. [Shortest Path In A Maze](./challenges/shortest-path-in-a-maze.py)
 24. [Locking In Binary Tree](./challenges/locking-in-binary-tree.py)
 25. [Regex Matching](./challenges/regex-matching.py)
-26. Kth Last Element In Singly Linked List
+26. [Kth Last Element In Singly Linked List](./challenges/kth-last-element-in-singly-linked-list.py)
 27. [Well Formedness Of Brackets](./challenges/well-formedness-of-brackets.py)
 
 ## Lessons
