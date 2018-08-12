@@ -32,6 +32,7 @@
 26. [Kth Last Element In Singly Linked List](./challenges/kth-last-element-in-singly-linked-list.py)
 27. [Well Formedness Of Brackets](./challenges/well-formedness-of-brackets.py)
 28. [Justify Text](./challenges/justify-text.py)
+29. [Run Length Encoding](./challenges/run-length-encoding.py)
 
 ## Lessons
 
