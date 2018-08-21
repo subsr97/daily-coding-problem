@@ -39,7 +39,7 @@
 33. Running Median
 34. Form A Palindrome
 35. RGB Array Segregation
-36. Second Largest Node In BST
+36. [Second Largest Node In BST](./challenges/second-largest-node-in-bst.py)
 37. Power Set
 38. N Queens Puzzle
 
