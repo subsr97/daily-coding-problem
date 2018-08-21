@@ -33,6 +33,15 @@
 27. [Well Formedness Of Brackets](./challenges/well-formedness-of-brackets.py)
 28. [Justify Text](./challenges/justify-text.py)
 29. [Run Length Encoding](./challenges/run-length-encoding.py)
+30. Trapped Rain Water
+31. Edit Distance
+32. Currency Exchange Arbitrage
+33. Running Median
+34. Form A Palindrome
+35. RGB Array Segregation
+36. Second Largest Node In BST
+37. Power Set
+38. N Queens Puzzle
 
 ## Lessons
 
