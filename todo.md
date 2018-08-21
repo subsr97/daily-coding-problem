@@ -1,4 +1,4 @@
-- [ ] Largest Non-adjacent Sum
+- [x] Largest Non-adjacent Sum
 - [ ] Longest Subsstring With At Most K Cha racters
 - [ ] Longest Absolute Path
 - [ ] Max In Each Subarray
