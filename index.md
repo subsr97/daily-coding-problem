@@ -42,6 +42,11 @@
 36. [Second Largest Node In BST](./challenges/second-largest-node-in-bst.py)
 37. Power Set
 38. N Queens Puzzle
+39. Conway's Game Of Life
+40. Non Duplicated Number
+41. Flight Itinerary Problem
+42. [SubArray Sum](./challenges/subarray-sum.py)
+43. Stack Implementation
 
 ## Lessons
 
