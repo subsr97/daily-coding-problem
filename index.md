@@ -47,6 +47,20 @@
 41. Flight Itinerary Problem
 42. [SubArray Sum](./challenges/subarray-sum.py)
 43. Stack Implementation
+44. Number Of Inversions
+45. rand7
+46. Longest Panlindromic Contiguous Substring
+47. Maximum Profit In Stock
+48. Reconstruct Tree Using Pre-order and In-order Traversals
+49. Maximum Sum Of Contiguous Subarray
+50. Evaluate Arithmetic Expression Binary Tree
+51. Shuffle Cards
+52. LRU Cache
+53. Queue Using Stacks
+54. Sudoku Solver
+55. URL Shortener
+
+
 
 ## Lessons
 
