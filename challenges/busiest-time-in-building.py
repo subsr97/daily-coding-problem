@@ -19,7 +19,7 @@ You can assume the building always starts off and ends up empty, i.e. with 0 peo
 Test case generated using: https://gist.github.com/subsr97/013f0ec962ebc2f30f26e2ea73c2a4f7
 Entry Count: 10
 Entries:
- [
+[
     {'timestamp': 1546711314, 'count': 1, 'type': 'enter'}, 
     {'timestamp': 1546711379, 'count': 3, 'type': 'enter'}, 
     {'timestamp': 1546711496, 'count': 1, 'type': 'exit'}, 
@@ -29,7 +29,8 @@ Entries:
     {'timestamp': 1546711764, 'count': 5, 'type': 'exit'}, 
     {'timestamp': 1546711778, 'count': 3, 'type': 'exit'}, 
     {'timestamp': 1546711799, 'count': 3, 'type': 'enter'}, 
-    {'timestamp': 1546711851, 'count': 5, 'type': 'exit'}]
+    {'timestamp': 1546711851, 'count': 5, 'type': 'exit'}
+]
 People List: [0, 1, 4, 3, 2, 5, 10, 5, 2, 5, 0]
 Answer: (1546711755, 1546711764)
 """
@@ -62,15 +63,16 @@ def busiestTime(entries):
 
 def main():
     entries = [
-        {'timestamp': 1546707529, 'count': 1, 'type': 'enter'}, 
-        {'timestamp': 1546707546, 'count': 3, 'type': 'enter'}, 
-        {'timestamp': 1546707565, 'count': 1, 'type': 'enter'}, 
-        {'timestamp': 1546707594, 'count': 2, 'type': 'exit'}, 
-        {'timestamp': 1546707672, 'count': 3, 'type': 'enter'}, 
-        {'timestamp': 1546707781, 'count': 1, 'type': 'exit'}, 
-        {'timestamp': 1546707806, 'count': 4, 'type': 'exit'}, 
-        {'timestamp': 1546707915, 'count': 4, 'type': 'enter'}, 
-        {'timestamp': 1546707961, 'count': 5, 'type': 'exit'}
+        {'timestamp': 1546711314, 'count': 1, 'type': 'enter'}, 
+        {'timestamp': 1546711379, 'count': 3, 'type': 'enter'}, 
+        {'timestamp': 1546711496, 'count': 1, 'type': 'exit'}, 
+        {'timestamp': 1546711578, 'count': 1, 'type': 'exit'}, 
+        {'timestamp': 1546711673, 'count': 3, 'type': 'enter'}, 
+        {'timestamp': 1546711755, 'count': 5, 'type': 'enter'}, 
+        {'timestamp': 1546711764, 'count': 5, 'type': 'exit'}, 
+        {'timestamp': 1546711778, 'count': 3, 'type': 'exit'}, 
+        {'timestamp': 1546711799, 'count': 3, 'type': 'enter'}, 
+        {'timestamp': 1546711851, 'count': 5, 'type': 'exit'}
     ]
 
     print(busiestTime(entries))
