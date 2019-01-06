@@ -30,12 +30,11 @@
 * [#29 Run Length Encoding](./challenges/run-length-encoding.py)
 * [#36 Second Largest Node In BST](./challenges/second-largest-node-in-bst.py)
 * [#42 SubArray Sum](./challenges/subarray-sum.py)
+* [#43 Max Stack Implementation](./challenges/max-stack-implementation.py)
 * [#55 URL Shortener](./challenges/url-shortener.py)
 * [#157 Is Permutation Palindrome](./challenges/is-permutation-palindrome.py)
 * [#171 Busiest Time In Building](./challenges/busiest-time-in-building.py)
 * [#173 Flatten Nested Dictionary](./challenges/flatten-nested-dictionary.py)
-
-
 
 
 ## Lessons
