@@ -33,6 +33,7 @@
 * [#43 Max Stack Implementation](./challenges/max-stack-implementation.py)
 * [#55 URL Shortener](./challenges/url-shortener.py)
 * [#89 Valid Binary Search Tree](./challenges/valid-binary-search-tree.py)
+* [#121 Make Palidrome](./challenges/make-palindrome.py)
 * [#157 Is Permutation Palindrome](./challenges/is-permutation-palindrome.py)
 * [#171 Busiest Time In Building](./challenges/busiest-time-in-building.py)
 * [#173 Flatten Nested Dictionary](./challenges/flatten-nested-dictionary.py)
