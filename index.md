@@ -38,6 +38,7 @@
 * [#157 Is Permutation Palindrome](./challenges/is-permutation-palindrome.py)
 * [#171 Busiest Time In Building](./challenges/busiest-time-in-building.py)
 * [#173 Flatten Nested Dictionary](./challenges/flatten-nested-dictionary.py)
+* [#182 Minimally Connected Graph](./challenges/minimally-connected-graph.py)
 
 
 ## Lessons
