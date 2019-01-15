@@ -41,7 +41,6 @@
 * [#182 Minimally Connected Graph](./challenges/minimally-connected-graph.py)
 * [#183 What Happens When You Type An URL In A Browser](./challenges/what-happens-when-you-type-an-url-in-a-browser.md)
 
-
 ## Lessons
 
 * [Merge Sort](./lessons/merge-sort.py)
