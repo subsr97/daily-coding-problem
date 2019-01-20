@@ -11,8 +11,8 @@
 * [#7 Decode Ways](./challenges/decode-ways.py)
 * [#8 Count Unival Subtrees](./challenges/count-unival-subtrees.py)
 * #10 Job Scheduler
-    * [Golang](./challenges/job-scheduler.go)
-    * [Python](./challenges/job-scheduler.py)
+    * [job-scheduler.go](./challenges/job-scheduler.go)
+    * [job-scheduler.py](./challenges/job-scheduler.py)
 * [#11 Autocomplete System](./challenges/autocomplete-system.py)
 * [#12 Climb The Staircase](./challenges/climb-the-staircase.py)
 * [#14 Estimate Pi - Monte Carlo](./challenges/estimate-pi-monte-carlo.py)
