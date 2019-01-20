@@ -62,7 +62,7 @@ def main():
     3
 
     Explanation:
-    The variable i in line 32 refers to the variable i in the outer scope ie line 29.
+    The variable i in line 31 refers to the variable i in the outer scope (i.e) line 29.
     """
     print()
 
@@ -76,7 +76,7 @@ def main():
     3
 
     Explanation:
-    Pass i as an argument to the print_i() function so that the i in line 32 will refer to that parameter rather than the outer i.
+    Pass i as an argument to the print_i() function so that the i in line 31 will refer to that parameter rather than the outer i.
     """
     print()
 
