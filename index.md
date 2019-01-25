@@ -39,6 +39,7 @@
 * [#150 K Nearest Points](./challenges/k-nearest-points.py)
 * [#157 Is Permutation Palindrome](./challenges/is-permutation-palindrome.py)
 * [#164 Find Duplicate Element](./challenges/find-duplicate-element.py)
+* [#165 Smaller Elements On The Right](./challenges/smaller-elements-on-the-right.py)
 * [#171 Busiest Time In Building](./challenges/busiest-time-in-building.py)
 * [#173 Flatten Nested Dictionary](./challenges/flatten-nested-dictionary.py)
 * [#176 One To One Character Mapping](./challenges/one-to-one-character-mapping.py)
