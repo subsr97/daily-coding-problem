@@ -38,6 +38,7 @@
 * [#137 Bit Array](./challenges/bit-array.go)
 * [#150 K Nearest Points](./challenges/k-nearest-points.py)
 * [#157 Is Permutation Palindrome](./challenges/is-permutation-palindrome.py)
+* [#163 Reverse Polish Notation](./challenges/reverse-polish-notation.py)
 * [#164 Find Duplicate Element](./challenges/find-duplicate-element.py)
 * [#165 Smaller Elements On The Right](./challenges/smaller-elements-on-right.py)
 * [#171 Busiest Time In Building](./challenges/busiest-time-in-building.py)
