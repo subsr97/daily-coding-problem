@@ -34,6 +34,7 @@
 * [#43 Max Stack Implementation](./challenges/max-stack-implementation.py)
 * [#55 URL Shortener](./challenges/url-shortener.py)
 * [#89 Valid Binary Search Tree](./challenges/valid-binary-search-tree.py)
+* [#92 Course Scheduler](./challenges/course-scheduler.py)
 * [#121 Make Palidrome](./challenges/make-palindrome.py)
 * [#137 Bit Array](./challenges/bit-array.go)
 * [#150 K Nearest Points](./challenges/k-nearest-points.py)
