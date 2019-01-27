@@ -41,6 +41,7 @@
 * [#163 Reverse Polish Notation](./challenges/reverse-polish-notation.py)
 * [#164 Find Duplicate Element](./challenges/find-duplicate-element.py)
 * [#165 Smaller Elements On The Right](./challenges/smaller-elements-on-right.py)
+* [#166 2D Iterator](./challenges/two-d-iterator.py)
 * [#171 Busiest Time In Building](./challenges/busiest-time-in-building.py)
 * [#173 Flatten Nested Dictionary](./challenges/flatten-nested-dictionary.py)
 * [#176 One To One Character Mapping](./challenges/one-to-one-character-mapping.py)
