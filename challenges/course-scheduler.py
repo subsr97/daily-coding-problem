@@ -41,7 +41,7 @@ def completeCourse(course, currentPrerequisites):
         if prerequsite not in completedCourses:
             canComplete = completeCourse(prerequsite, currentPrerequisites+[course])
             if canComplete == True:
-                addToCompletedCourses(course)
+                pass
             else:
                 return False
     
