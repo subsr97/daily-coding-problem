@@ -51,6 +51,7 @@
 * [#183 What Happens When You Type An URL In A Browser](./challenges/what-happens-when-you-type-an-url-in-a-browser.md)
 * [#188 Make Functions](./challenges/make-functions.py)
 * [#195 Count Elements Given Upper And Lower Bounds](./challenges/count-elements-given-upper-and-lower-bounds.py)
+* [#202 Is Number Palindrome](./challenges/is-number-palindrome.py)
 
 ## Lessons
 
