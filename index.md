@@ -53,6 +53,7 @@
 * [#195 Count Elements Given Upper And Lower Bounds](./challenges/count-elements-given-upper-and-lower-bounds.py)
 * [#202 Is Number Palindrome](./challenges/is-number-palindrome.py)
 * [#215 Bottom View Of Binary Tree](./challenges/bottom-view-of-binary-tree.py)
+* [#244 Sieve Of Eratosthenes - Prime Generator](./challenges/sieve-of-eratosthenes-prime-generator.py)
 
 ## Lessons
 
