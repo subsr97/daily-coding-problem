@@ -15,6 +15,7 @@ Bonus: Create a generator that produces primes indefinitely (that is, without ta
 
 import math
 
+# Reference: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Pseudocode
 def sieveOfEratosthenes(n):
     # Setting all numbers.
     numberList = [True for _ in range(n+1)]
@@ -29,6 +30,8 @@ def sieveOfEratosthenes(n):
     # All set numbers are prime.
     return [i for i in range(2,n+1) if numberList[i]]
 
+
+# Reference: https://github.com/ActiveState/code/blob/master/recipes/Python/117119_Sieve_of_Eratosthenes/recipe-117119.py
 def indefiniteSieveOfEratosthenes():
     compositeDic = dict()   # Dictionary to hold composite numbers and their witness primes.
     currentNum = 2          # Starting prime.
