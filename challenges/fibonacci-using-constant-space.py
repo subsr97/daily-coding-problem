@@ -9,7 +9,8 @@ Implement the function fib(n), which returns the nth number in the Fibonacci seq
 def findNthFibonacci(n):
     a = -1
     b = 1
-    
+    c = None
+
     for _ in range(n):
         c = a + b
         a = b
