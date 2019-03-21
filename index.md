@@ -35,6 +35,7 @@
 * [#55 URL Shortener](./challenges/url-shortener.py)
 * [#89 Valid Binary Search Tree](./challenges/valid-binary-search-tree.py)
 * [#92 Course Scheduler](./challenges/course-scheduler.py)
+* [#105 Debounce Function](./challenges/debounce-function.go)
 * [#116 Arbitrarily Large Binary Tree](./challenges/arbitrarily-large-binary-tree.py)
 * [#121 Make Palidrome](./challenges/make-palindrome.py)
 * [#123 Valid Number](./challenges/valid-number.py)
