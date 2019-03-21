@@ -37,6 +37,7 @@
 * [#92 Course Scheduler](./challenges/course-scheduler.py)
 * [#116 Arbitrarily Large Binary Tree](./challenges/arbitrarily-large-binary-tree.py)
 * [#121 Make Palidrome](./challenges/make-palindrome.py)
+* [#123 Valid Number](./challenges/valid-number.py)
 * [#137 Bit Array](./challenges/bit-array.go)
 * [#150 K Nearest Points](./challenges/k-nearest-points.py)
 * [#157 Is Permutation Palindrome](./challenges/is-permutation-palindrome.py)
