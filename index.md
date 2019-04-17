@@ -59,6 +59,7 @@
 * [#233 Fibonacci Using Constant Space](./challenges/fibonacci-using-constant-space.py)
 * [#244 Sieve Of Eratosthenes - Prime Generator](./challenges/sieve-of-eratosthenes-prime-generator.py)
 * [#246 Chain Words](./challenges/chain-words.py)
+* [#273 Fixed Point In Array](./challenges/fixed-point-in-array.py)
 
 ## Lessons
 
