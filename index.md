@@ -32,6 +32,7 @@
 * [#36 Second Largest Node In BST](./challenges/second-largest-node-in-bst.py)
 * [#42 SubArray Sum](./challenges/subarray-sum.py)
 * [#43 Max Stack Implementation](./challenges/max-stack-implementation.py)
+* [#52 LRU Cache](./challenges/lru-cache.py)
 * [#55 URL Shortener](./challenges/url-shortener.py)
 * [#89 Valid Binary Search Tree](./challenges/valid-binary-search-tree.py)
 * [#92 Course Scheduler](./challenges/course-scheduler.py)
