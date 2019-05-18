@@ -63,6 +63,7 @@
 * [#246 Chain Words](./challenges/chain-words.py)
 * [#273 Fixed Point In Array](./challenges/fixed-point-in-array.py)
 * [#282 Pythagorean Triplet In Array](./challenges/pythagorean-triplet-in-array.py)
+* [#307 BST Floor And Ceil](./challenges/bst-floor-and-ceil.py)
 
 ## Lessons
 
